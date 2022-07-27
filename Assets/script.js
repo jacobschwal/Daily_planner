@@ -21,13 +21,14 @@ function blockStyling() {
             $(this).addClass('future');
         } else {
             $(this).addClass('past');
-            //$('.hourlyEvent').attr("readonly", "readonly");
         }
 })};
 
 $(".saveBtn").click(function(event) {
     console.log("button has been clicked")
     event.preventDefault();
+
+
 
 });
 
