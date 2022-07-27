@@ -6,6 +6,9 @@ Within the JS I have added it so that the date and time show at the top of the p
 # HTML 
 I added the blocks given the specific time. I have also added bootstrap styling so that the the blocks and the time fit onto the page. 
 
-# image
+# image and depoyed link
 The photo shows the working webpage showing all the time slots greyed out since its passed 9-5. 
-planner.png
+
+![alt text](./Assets/images/planner.png)
+
+deployed link: https://jacobschwal.github.io/Daily_planner/
